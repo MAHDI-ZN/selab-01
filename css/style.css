@@ -44,3 +44,20 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.contact-section {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3rem;
+    margin: 3rem auto;
+}
+
+.contact-section ul {
+    list-style: none;
+    padding: 1rem;
+}
+
+.contact-section li {
+    margin: 1rem 0;
+    font-size: 1.2rem;
+}
